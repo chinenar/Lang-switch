@@ -15,9 +15,9 @@
     2.2 Download AutoHotkey https://www.autohotkey.com/download/ahk-v2.exe
     2.3 click window + r
        2.3.1 search
-```bash
-shell:startup
-```
+   ```bash
+    shell:startup
+   ```
        2.3.1 Move file (ShowLang-auto start) to the folder
 
 3. run script
